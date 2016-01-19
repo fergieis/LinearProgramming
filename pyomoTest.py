@@ -1,5 +1,6 @@
-from pyomo.environ import * 
 from __future__ import division 
+import pyomo
+from pyomo.environ import * 
 
 p = AbstractModel()
 
